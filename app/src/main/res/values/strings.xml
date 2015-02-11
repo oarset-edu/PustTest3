@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PushTest3</string>
+    <string name="trythis">6th try</string>
+    <string name="msgoutput"></string>
+    <string name="msg2output"></string>
+    <string name="action_settings">Settings</string>
+
+</resources>
